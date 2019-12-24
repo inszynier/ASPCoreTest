@@ -12,7 +12,7 @@ namespace GitRepoTest
     public class Program
     {
         public static void Main(string[] args)
-        {
+        { //comentarz
             CreateHostBuilder(args).Build().Run();
         }
 
